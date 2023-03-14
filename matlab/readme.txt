@@ -8,6 +8,8 @@ latte_reg.m 文件是晶格回归函数；
 
 Mine.m 文件是同色异谱黑和晶格回归方法的结合函数；
 
+regularizeNd.p 为LUT建立函数；
+
 rmse_mine.m 用以计算重建光谱和实际光谱间的均方根误差rmse；
 
 main.m文件是程序入口。
