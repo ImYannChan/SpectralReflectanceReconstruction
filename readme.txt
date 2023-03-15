@@ -5,3 +5,5 @@ Chen Y, Zhang S, Xu L. Spectral Reflectance Reconstruction of Organ Tissue Based
 matlab 文件是论文的matlab程序
 
 python 文件是论文的python程序实现
+
+可以直接使用晶格回归类来实现光谱反射率，而不通过同色异谱黑。
